@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hey everyone <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Noy
 <a href="https://www.linkedin.com/in/noy-osi/">
-  <img height="23" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  <img height="30px" width="30px" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a></h1>
 <h3 align="center">🎓 BSc Computer Science and Mathematics  </h3>
 
