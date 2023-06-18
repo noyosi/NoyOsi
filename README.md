@@ -5,6 +5,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/noy-osi/)
 [![Gmail Badge](https://img.shields.io/badge/-noyosi2212@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:noyosi2212@gmail.com)](mailto:noyosi2212@gmail.com)
 <a href="https://www.facebook.com/noyosi/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" height="20"/></a>
+<a href="https://www.linkedin.com/in/noy-osi/" title="Linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
