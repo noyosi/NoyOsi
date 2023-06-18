@@ -27,7 +27,6 @@ I am motivated to create, develop and experience.<br>
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img alt="SQL" src="https://img.shields.io/badge/sql-%2300599C.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="andoidStudio">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css">
 <span/>
@@ -57,6 +56,7 @@ I am motivated to create, develop and experience.<br>
 
 
 <!--
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="andoidStudio">
 <h3> 📫 Contact Me:</h3>
 **noyosi/NoyOsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## 🌐 Socials:
