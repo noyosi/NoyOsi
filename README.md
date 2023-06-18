@@ -100,6 +100,7 @@ Socials: Let's Connect and have a Chat 💬
 </a>
 <a href="https://www.facebook.com/noyosi/"><img height="50" img src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png"/></a>  
 
+<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
